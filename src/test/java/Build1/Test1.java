@@ -8,7 +8,7 @@ public class Test1 {
 	@Test
 	public void newT()
 	{
-		System.out.println("Run1");
+		System.out.println("Run100");
 	}
 	
 }
